@@ -1,4 +1,4 @@
-# 💕  Personalized Healthcare Recommendation System
+# 💕 MediConnect: Personalized Healthcare Assistant & Blockchain Medical Records
 
   <!-- About the Project -->
 <details>
@@ -28,9 +28,23 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 📃 About The Project
-<b>" Personalized Healthcare Recommendation System"</b> is an AI healthcare assistant that uses AI and machine learning algorithms to improve patients' experience by providing them professional medical assistance. Patients will be able to find the nearest doctor to their location, ask about illness symptoms, and schedule an appointment with a doctor based on their availability. Immediate responses will be provided by a chatbot to redeem the needs of our patients using Artificial Intelligence techniques for decision making. Also, our solution offers a very unique concept with developing patient records using Blockchain. The assistant will create a medical record and store it in Blockchain to make them accessible to any of the patient's chosen doctors with granted permission. Thanks to the decentralized nature of Blockchain, patient records would be securely spread among a large number of servers, posing little risk to their sensitive information.<br>
-This web application centralizes the schedules and medical services in a single dashboard. This solution offers a real-time overview of the coverage of reports that facilitate the management of resources.<br>
+<b>" MediConnect: Personalized Healthcare Assistant & Blockchain Medical Records"
 
+MediConnect is an innovative AI-powered healthcare assistant designed to enhance patients' healthcare journey. Our platform utilizes cutting-edge AI and machine learning algorithms to provide personalized medical assistance, enabling patients to seamlessly navigate their healthcare needs.
+
+Key Features:
+
+Smart Doctor Recommendation: Our system analyzes user symptoms using comprehensive symptom data, healthcare provider databases, and user ratings to recommend doctors with matching specialties and aligned schedules, ensuring patients receive the best possible care.
+Location-based Doctor Search: Patients can easily locate the nearest doctors to their location, making access to healthcare services convenient and efficient.
+Symptom Assessment Chatbot: An AI-driven chatbot provides immediate responses to patient inquiries about illness symptoms, offering preliminary guidance and assistance.
+Appointment Scheduling: Patients can schedule appointments with doctors based on their availability, streamlining the appointment booking process and minimizing wait times.
+Blockchain Medical Records: Our solution revolutionizes medical record management by utilizing Blockchain technology. Patient records are securely stored and accessible to authorized healthcare providers, ensuring data integrity, confidentiality, and accessibility.
+Real-time Dashboard: The web application provides a centralized dashboard for scheduling and managing medical services in real-time, offering administrators a comprehensive overview of resource utilization and coverage.
+MediConnect aims to transform the healthcare experience by leveraging AI, Blockchain, and real-time data to deliver personalized, efficient, and secure healthcare services. Join us in revolutionizing healthcare delivery for a healthier and more connected future.
+
+
+
+</br>
  ### 📜 Project Main features
 1. **🤖 Symptoms Detection:** using Artificial Intelligence for specialist recommendation and illness detection.
 2. **📅 Appointment Scheduling:** based on the nearest doctor to your location or the first available appointment.
