@@ -155,7 +155,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <!-- CONTACT -->
 ## 💌 Contact
-<b>Made by:</b>    janvisahotra17@gmail.com 
+<b>Email:</b>    janvisahotra17@gmail.com 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
