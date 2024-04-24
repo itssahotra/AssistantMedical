@@ -45,6 +45,8 @@ MediConnect aims to transform the healthcare experience by leveraging AI, Blockc
 
 
 </br>
+
+
  ### 📜 Project Main features
 1. **🤖 Symptoms Detection:** using Artificial Intelligence for specialist recommendation and illness detection.
 2. **📅 Appointment Scheduling:** based on the nearest doctor to your location or the first available appointment.
